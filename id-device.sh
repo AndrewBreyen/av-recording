@@ -1,0 +1,1 @@
+pactl list short sources
